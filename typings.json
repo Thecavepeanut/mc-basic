@@ -1,0 +1,6 @@
+{
+  "name": "mc-basic",
+  "dependencies": {
+    "lodash": "registry:npm/lodash#4.0.0+20160701205107"
+  }
+}
